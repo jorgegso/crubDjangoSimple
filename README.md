@@ -1,0 +1,3 @@
+# corePractic
+# grubDjangoSimple
+# grubDjangoSimple
